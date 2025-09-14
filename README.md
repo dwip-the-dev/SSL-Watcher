@@ -1,6 +1,6 @@
 ## 🚨 SSL WATCHER PRO - THE SSL EXORCIST 💀🔥
 
-⚠️ WARNING: This tool might make your ISP file a restraining order. Use responsibly (or don't, I'm not your mom).
+## ⚠️ WARNING: This tool might make your ISP file a restraining order. Use responsibly (or don't, I'm not your mom).
 
 ---
 
@@ -70,17 +70,11 @@ python3 main.py
 ## 🎯 FEATURES NOBODY ASKED FOR
 
 · ✅ SSL Stalking - Watches certificates like a creepy neighbor
-
 · ✅ Email Terrorism - Spams everyone you've ever met
-
 · ✅ PDF Generation - Creates reports that will never be opened
-
 · ✅ Web UI - So you can feel like a 1337 h4x0r
-
 · ✅ Background Checks - Runs while you sleep (creepy)
-
 · ✅ Multi-recipient Annoyance - Why bother one person when you can bother everyone?
-
 
 ---
 
@@ -91,23 +85,22 @@ python3 main.py
 
 Translation: "Please unsubscribe me from your life choices"
 ```
-AND WHEN A SSL IS EXPIRING IT WILL AUTOMATICALLY SEND IT THE TEST EMAIL IS ONLY FOR TEST AN DNOT THE REAL EMAIL ITS JUST A DUMMY EMAIL. SO JUST WAIT AND WATCH 😐😐😐😐
 
-emails.jpg
+AND WHEN AN SSL IS EXPIRING IT WILL AUTOMATICALLY SEND THE ALERT - THE TEST EMAIL IS ONLY FOR TESTING AND NOT THE REAL ALERT. SO JUST WAIT AND WATCH 😐😐😐😐
 
+https://via.placeholder.com/600x300/ff6b6b/ffffff?text=🚨+SSL+ALERT+EMAIL+SCREENSHOT+GOES+HERE&font-size=20
 
 ---
 
-## 📑PDF YOU WILL GET
-pdf.jpg
+## 📑 PDF YOU WILL GET
 
+https://via.placeholder.com/600x300/4ecdc4/ffffff?text=📄+PDF+REPORT+SCREENSHOT+GOES+HERE&font-size=20
 
 ---
 
 ## 🛑 LEGAL DISCLAIMER (LOL)
 
 I am not responsible for:
-
 · Your ISP disconnecting you
 · Your friends blocking you
 · Your boss firing you
@@ -154,7 +147,6 @@ If you actually want to contribute:
 ## 📜 LICENSE
 
 "Do Whatever the Fuck You Want" License (DWTFYW)
-
 · Use it
 · Break it
 · Blame me
@@ -177,7 +169,7 @@ If you actually want to contribute:
 ```bash
 # Before running, ask yourself:
 # "Am I ready to explain this to my ISP?"
-# "Do I have enough friends to lose?"
+# "Do I have enough friends to lose?" 
 # "Is my therapist on speed dial?"
 
 # If you answered yes to all, proceed:
@@ -186,8 +178,12 @@ python3 main.py
 
 ---
 
-## SSL Watcher Pro: Because sometimes you need to automate poor life decisions. 💀
+SSL Watcher Pro: Because sometimes you need to automate poor life decisions. 💀
+
+https://via.placeholder.com/800x400/485696/ffffff?text=🖥️+SSL+WATCHER+DASHBOARD+SCREENSHOT+GOES+HERE&font-size=20
 
 ---
 
 ⚠️ Seriously though: Don't be a dick. Monitor only domains you own. Your ISP can and will fuck up your day if you abuse this.
+
+Built with hate and caffeine by dwip-the-dev 💀☕
