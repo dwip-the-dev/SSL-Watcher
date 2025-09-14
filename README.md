@@ -9,8 +9,11 @@
 SSL Watcher Pro is what happens when you give a sleep-deprived developer too much caffeine and access to the SSL module. It's a Python script that:
 
 · 👀 Stalks SSL certificates like they're your ex on Instagram
+
 · 📧 Spams your inbox with panic-inducing emails
+
 · 📊 Generates PDF reports that nobody will ever read
+
 · 🔥 Burns through your Gmail quota like it's 1999
 
 ---
@@ -70,10 +73,15 @@ python3 main.py
 ## 🎯 FEATURES NOBODY ASKED FOR
 
 · ✅ SSL Stalking - Watches certificates like a creepy neighbor
+
 · ✅ Email Terrorism - Spams everyone you've ever met
+
 · ✅ PDF Generation - Creates reports that will never be opened
+
 · ✅ Web UI - So you can feel like a 1337 h4x0r
+
 · ✅ Background Checks - Runs while you sleep (creepy)
+
 · ✅ Multi-recipient Annoyance - Why bother one person when you can bother everyone?
 
 ---
@@ -102,9 +110,13 @@ AND WHEN AN SSL IS EXPIRING IT WILL AUTOMATICALLY SEND THE ALERT - THE TEST EMAI
 
 I am not responsible for:
 · Your ISP disconnecting you
+
 · Your friends blocking you
+
 · Your boss firing you
+
 · Your cat judging you
+
 · The existential crisis that follows using this tool
 
 Use at your own risk (and preferably on a VPN).
@@ -118,17 +130,23 @@ Because I:
 1. ❌ Deleted my old GitHub account
 2. 💀 Need commit streaks to feel validated
 3. ☕ Had too much caffeine
-4. 😭 Hate seeing successful people
+4.😭 Hate seeing successful people
+   
 
 ---
 
 ## 🎪 ROADMAP (DELUSIONAL EDITION)
 
 · Discord Webhooks - Annoy gamers too
+
 · SMS Notifications - Because emails aren't enough
+
 · Telegram Bot - Stalk certificates on-the-go
+
 · Blockchain Integration - Make it needlessly complicated
+
 · NFT Certificates - Because why the fuck not
+
 · AI Panic Mode - Sends increasingly dramatic alerts
 
 ---
@@ -180,10 +198,8 @@ python3 main.py
 
 SSL Watcher Pro: Because sometimes you need to automate poor life decisions. 💀
 
-https://via.placeholder.com/800x400/485696/ffffff?text=🖥️+SSL+WATCHER+DASHBOARD+SCREENSHOT+GOES+HERE&font-size=20
-
 ---
 
-⚠️ Seriously though: Don't be a dick. Monitor only domains you own. Your ISP can and will fuck up your day if you abuse this.
+⚠️ Seriously though: Monitor only domains you own. Your ISP can and will fuck up your day if you abuse this.
 
 Built with hate and caffeine by dwip-the-dev 💀☕
