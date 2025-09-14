@@ -88,13 +88,13 @@ Translation: "Please unsubscribe me from your life choices"
 
 AND WHEN AN SSL IS EXPIRING IT WILL AUTOMATICALLY SEND THE ALERT - THE TEST EMAIL IS ONLY FOR TESTING AND NOT THE REAL ALERT. SO JUST WAIT AND WATCH 😐😐😐😐
 
-https://via.placeholder.com/600x300/ff6b6b/ffffff?text=🚨+SSL+ALERT+EMAIL+SCREENSHOT+GOES+HERE&font-size=20
+![email](email.jpg)
 
 ---
 
 ## 📑 PDF YOU WILL GET
 
-https://via.placeholder.com/600x300/4ecdc4/ffffff?text=📄+PDF+REPORT+SCREENSHOT+GOES+HERE&font-size=20
+![pdf](pdf.jpg)
 
 ---
 
