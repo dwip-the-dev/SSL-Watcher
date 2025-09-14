@@ -1,10 +1,10 @@
-🚨 SSL WATCHER PRO - THE SSL EXORCIST 💀🔥
+## 🚨 SSL WATCHER PRO - THE SSL EXORCIST 💀🔥
 
 ⚠️ WARNING: This tool might make your ISP file a restraining order. Use responsibly (or don't, I'm not your mom).
 
 ---
 
-🗿 WHAT IN THE ACTUAL FUCK IS THIS?
+## 🗿 WHAT IN THE ACTUAL FUCK IS THIS?
 
 SSL Watcher Pro is what happens when you give a sleep-deprived developer too much caffeine and access to the SSL module. It's a Python script that:
 
@@ -15,7 +15,7 @@ SSL Watcher Pro is what happens when you give a sleep-deprived developer too muc
 
 ---
 
-🖥️ INSTALLATION (IF YOU DARE)
+## 🖥️ INSTALLATION (IF YOU DARE)
 
 ```bash
 # Step 1: Clone this repository (like anyone will actually contribute)
@@ -35,7 +35,7 @@ sudo rm -rf /your/sense/of/sanity
 
 ---
 
-⚙️ CONFIGURATION (THE "FUCK IT" SETUP)
+## ⚙️ CONFIGURATION (THE "FUCK IT" SETUP)
 
 1. Edit the code like a degenerate (find the SMTP config part)
 2. Put in your Gmail and app password (RIP your account security)
@@ -53,7 +53,7 @@ sudo rm -rf /your/sense/of/sanity
 
 ---
 
-🚀 USAGE (HOW TO PISS PEOPLE OFF)
+## 🚀 USAGE (HOW TO PISS PEOPLE OFF)
 
 ```bash
 # Run this bad boy
@@ -67,7 +67,7 @@ python3 main.py
 
 ---
 
-🎯 FEATURES NOBODY ASKED FOR
+## 🎯 FEATURES NOBODY ASKED FOR
 
 · ✅ SSL Stalking - Watches certificates like a creepy neighbor
 
@@ -84,7 +84,7 @@ python3 main.py
 
 ---
 
-📧 EMAILS YOU'LL SEND (AND REGRET)
+## 📧 EMAILS YOU'LL SEND (AND REGRET)
 
 ```
 🚨 SSL Alert: example.com expires in 15 days!
@@ -93,9 +93,18 @@ Translation: "Please unsubscribe me from your life choices"
 ```
 AND WHEN A SSL IS EXPIRING IT WILL AUTOMATICALLY SEND IT THE TEST EMAIL IS ONLY FOR TEST AN DNOT THE REAL EMAIL ITS JUST A DUMMY EMAIL. SO JUST WAIT AND WATCH 😐😐😐😐
 
+emails.jpg
+
+
 ---
 
-🛑 LEGAL DISCLAIMER (LOL)
+## 📑PDF YOU WILL GET
+pdf.jpg
+
+
+---
+
+## 🛑 LEGAL DISCLAIMER (LOL)
 
 I am not responsible for:
 
@@ -109,7 +118,7 @@ Use at your own risk (and preferably on a VPN).
 
 ---
 
-🤡 WHY DOES THIS EXIST?
+## 🤡 WHY DOES THIS EXIST?
 
 Because I:
 
@@ -120,7 +129,7 @@ Because I:
 
 ---
 
-🎪 ROADMAP (DELUSIONAL EDITION)
+## 🎪 ROADMAP (DELUSIONAL EDITION)
 
 · Discord Webhooks - Annoy gamers too
 · SMS Notifications - Because emails aren't enough
@@ -131,7 +140,7 @@ Because I:
 
 ---
 
-👥 CONTRIBUTING (PLEASE DON'T)
+## 👥 CONTRIBUTING (PLEASE DON'T)
 
 If you actually want to contribute:
 
@@ -142,7 +151,7 @@ If you actually want to contribute:
 
 ---
 
-📜 LICENSE
+## 📜 LICENSE
 
 "Do Whatever the Fuck You Want" License (DWTFYW)
 
@@ -153,7 +162,7 @@ If you actually want to contribute:
 
 ---
 
-🪦 CREDITS
+## 🪦 CREDITS
 
 · Me - For this abomination
 · Python - For enabling my bad decisions
@@ -163,7 +172,7 @@ If you actually want to contribute:
 
 ---
 
-🔥 FINAL WARNING
+## 🔥 FINAL WARNING
 
 ```bash
 # Before running, ask yourself:
@@ -177,7 +186,7 @@ python3 main.py
 
 ---
 
-SSL Watcher Pro: Because sometimes you need to automate poor life decisions. 💀
+## SSL Watcher Pro: Because sometimes you need to automate poor life decisions. 💀
 
 ---
 
