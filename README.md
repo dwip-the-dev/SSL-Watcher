@@ -4,7 +4,7 @@
 
 ---
 
-## 🗿 WHAT IN THE ACTUAL FUCK IS THIS?
+## 🗿 WHAT IN THE ACTUAL FCK IS THIS?
 
 SSL Watcher Pro is what happens when you give a sleep-deprived developer too much caffeine and access to the SSL module. It's a Python script that:
 
@@ -38,7 +38,7 @@ sudo rm -rf /your/sense/of/sanity
 
 ---
 
-## ⚙️ CONFIGURATION (THE "FUCK IT" SETUP)
+## ⚙️ CONFIGURATION (THE "FCK IT" SETUP)
 
 1. Edit the code like a degenerate (find the SMTP config part)
 2. Put in your Gmail and app password (RIP your account security)
@@ -164,7 +164,7 @@ If you actually want to contribute:
 
 ## 📜 LICENSE
 
-"Do Whatever the Fuck You Want" License (DWTFYW)
+"Do Whatever the Fck You Want" License (DWTFYW)
 · Use it
 · Break it
 · Blame me
