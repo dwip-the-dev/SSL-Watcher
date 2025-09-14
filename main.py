@@ -23,8 +23,8 @@ app = Flask(__name__)
 
 # Configuration
 SMTP_CONFIG = {
-    'email': 'dwipbiswas22972@gmail.com',
-    'password': 'mvcd ziqt gnnd glqa',
+    'email': 'example@gmail.com',
+    'password': '**** **** **** ****',
     'server': 'smtp.gmail.com',
     'port': 587
 }
