@@ -130,6 +130,7 @@ Because I:
 1. ❌ Deleted my old GitHub account
 2. 💀 Need commit streaks to feel validated
 3. ☕ Had too much caffeine
+
 4.😭 Hate seeing successful people
    
 
