@@ -70,11 +70,17 @@ python3 main.py
 🎯 FEATURES NOBODY ASKED FOR
 
 · ✅ SSL Stalking - Watches certificates like a creepy neighbor
+
 · ✅ Email Terrorism - Spams everyone you've ever met
+
 · ✅ PDF Generation - Creates reports that will never be opened
+
 · ✅ Web UI - So you can feel like a 1337 h4x0r
+
 · ✅ Background Checks - Runs while you sleep (creepy)
+
 · ✅ Multi-recipient Annoyance - Why bother one person when you can bother everyone?
+
 
 ---
 
@@ -172,8 +178,6 @@ python3 main.py
 ---
 
 SSL Watcher Pro: Because sometimes you need to automate poor life decisions. 💀
-
-https://via.placeholder.com/800x400/ff0000/ffffff?text=YOUR+ISP+HATES+THIS+ONE+WEIRD+TOOL
 
 ---
 
